@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PermissionsTutorial</string>
+    <string name="we_request_again">We Request Again</string>
+    <string name="dialoge_desc">Some core functionalities of the app might not work correctly without these permissions.</string>
+    <string name="dont_ask_again">Don\'t ask again</string>
+    <string name="give_permissions">Give Permissions</string>
+    <string name="later">Later</string>
+    <string name="permissions_required">Permissions Required</string>
+    <string name="later_pressed_time">Later Pressed Time</string>
+</resources>
